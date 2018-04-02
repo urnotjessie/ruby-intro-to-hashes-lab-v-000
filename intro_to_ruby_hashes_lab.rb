@@ -43,5 +43,6 @@ def monopoly_with_fourth_tier
 	monopoly_with_third_tier[:railroads][:names][:pennsylvania_railroad]['mortgage_value'] = "$200"
 	monopoly_with_third_tier[:railroads][:names][:b_and_o_railroad]['mortgage_value'] = "$400"
 	monopoly_with_third_tier[:railroads][:names][:shortline]['mortgage_value'] = "$800"
+	monopoly
 
 end
